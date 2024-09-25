@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../iuk.css?v=15092024">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+<h2>Programming & Algorithm</h2>
+<p>Student Progress Dashboard</p><br>
+    <div class="icon-container">
+      <a href="../index.php"><i class="fas fa-house-user"></i></a>
+      <a href="regDays.php"><i class="fas fa-calendar-check"></i></a>
+      <a href="assignments.php"><i class="fas fa-clipboard"></i></a>
+      <a href="misc.php"><i class="fas fas fa-tasks"></i></a>
+    </div><br>
+    <table>
+        <tr>
+            <th>id</th>
+            <th>Names</th>
+            <th><i class="fas fa-calendar-check"></i></th>
+            <th><i class="fas fa-chart-line"></i></th>
+            <th><i class="fas fa-check-circle"></i></th>
+            <th><i class="fas fa-laptop"></i></th>
+            <th><i class="fas fa-lightbulb"></i></th>
+        </tr>
+        <tr>
+                    <td>1</td>
+                    <td>Admin</td>
+                    <td>1</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+               </tr><tr>
+                    <td>2</td>
+                    <td>Dastan Baiseitov</td>
+                    <td>2</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+               </tr><tr>
+                    <td>3</td>
+                    <td>Osmonova Tahmina</td>
+                    <td>2</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+               </tr><tr>
+                    <td>5</td>
+                    <td>Medina Talantbekova</td>
+                    <td>2</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+               </tr><tr>
+                    <td>6</td>
+                    <td>Nurzida Musupova</td>
+                    <td>0</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+               </tr><tr>
+                    <td>7</td>
+                    <td>Malika Asein k.</td>
+                    <td>1</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+               </tr><tr>
+                    <td>8</td>
+                    <td>Aisultan Abdyldaev</td>
+                    <td>0</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+               </tr>    </table><br>
+
+    Click <a href="regNewcomers.php">here</a> if you do not see your name in the list.
+
+</body>
+</html>
